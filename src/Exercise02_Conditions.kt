@@ -45,5 +45,4 @@ fun main() {
     else{
         println("Little Lemon is close now")
     }
-
 }
