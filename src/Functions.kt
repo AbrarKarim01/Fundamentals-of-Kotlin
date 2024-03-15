@@ -25,7 +25,6 @@ fun printName() { // for printing the name
 }
 
 // Local Functions
-
 // Example 3
 fun b() {
     // here I cannot use function a
