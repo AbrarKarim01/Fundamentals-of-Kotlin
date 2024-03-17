@@ -1,5 +1,4 @@
-// Example
-
+// Example 1
 abstract class ShapeDrawer {
     fun drawSquare(){
         drawLine()
@@ -10,7 +9,6 @@ abstract class ShapeDrawer {
     internal abstract fun drawLine()
 }
 class AndroidShapeDrawer():ShapeDrawer(){
-
     override fun drawLine() {
         //code that draw lines for android platform
         println("Test code -Draw line for  android platform")
